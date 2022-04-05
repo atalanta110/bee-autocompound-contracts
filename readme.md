@@ -1,4 +1,4 @@
-# Beefy Contracts
+# Bee autocompound Contracts
 Official repo for strategies and vaults from Beefy. Community strategists can contribute here to grow the ecosystem.
 
 ## Vault Deployment Process
